@@ -12,3 +12,4 @@ Fourth Change
 Fifth Change
 
 Conflict line 2
+Conflict line 1
